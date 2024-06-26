@@ -1,1 +1,1 @@
-# TurkishEmotionSentimentAnaliz
+# Turkish Sentiment Analiz
